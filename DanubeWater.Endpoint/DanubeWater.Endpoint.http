@@ -1,0 +1,6 @@
+@DanubeWater.Endpoint_HostAddress = http://localhost:5047
+
+GET {{DanubeWater.Endpoint_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
